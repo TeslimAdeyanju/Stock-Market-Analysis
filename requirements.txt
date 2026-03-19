@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.26.0
+plotly>=5.18.0
+scipy>=1.11.0
+pyportfolioopt>=1.5.5
+ta>=0.11.0
+scikit-learn>=1.4.0
